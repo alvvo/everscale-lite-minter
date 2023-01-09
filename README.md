@@ -1,0 +1,1 @@
+# everscale-lite-minter
