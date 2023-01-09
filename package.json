@@ -1,0 +1,24 @@
+{
+  "name": "everscale-lite-minter",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvvo/everscale-lite-minter.git"
+  },
+  "keywords": [
+    "everscale",
+    "tip4",
+    "nft",
+    "minter"
+  ],
+  "author": "alvvo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvvo/everscale-lite-minter/issues"
+  },
+  "homepage": "https://github.com/alvvo/everscale-lite-minter#readme"
+}
